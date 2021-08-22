@@ -4,7 +4,7 @@
   
 # API de Votação 
 
-O código contido nesse repositorio é sobre uma Rest API que gerencia votações no ambiente do cooperativismo. Solução back-end com endpoints de criação de: Associado, Pauta, Votação e Voto.
+O código contido nesse repositorio é sobre uma Rest API que gerencia votações no ambiente do cooperativismo. Solução back-end com endpoints de criação de: Associado, Pauta, Votação e Voto. Também apliquei padrões de testes usando o JUnit para fornecer alguns testes unitarios e de integração 
 
 
 
